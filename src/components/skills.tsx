@@ -2,36 +2,6 @@ import React from "react";
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { FaCheck } from "react-icons/fa6";
 const Skills = () => {
-  let education = [
-    {
-      uniName: "giaic",
-      date: "01/12/2024",
-      field: "agentic ai",
-      details:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima quia possimus quos corrupti voluptatibus mollitia alias id, est ut eveniet nam cum. Officia omnis itaque, deleniti dolore obcaecati molestias.",
-    },
-    {
-      uniName: "giaic",
-      date: "01/12/2024",
-      field: "rebotic agentic (ai)",
-      details:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima quia possimus quos corrupti voluptatibus mollitia alias id, est ut eveniet nam cum. Officia omnis itaque, deleniti dolore obcaecati molestias.",
-    },
-    {
-      uniName: "giaic",
-      date: "01/12/2024",
-      field: "information technology",
-      details:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima quia possimus quos corrupti voluptatibus mollitia alias id, est ut eveniet nam cum. Officia omnis itaque, deleniti dolore obcaecati molestias.",
-    },
-    {
-      uniName: "giaic",
-      date: "01/12/2024",
-      field: "meta verse 3.0",
-      details:
-        "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Minima quia possimus quos corrupti voluptatibus mollitia alias id, est ut eveniet nam cum. Officia omnis itaque, deleniti dolore obcaecati molestias.",
-    },
-  ];
   return (
     <Card data-aos="zoom-in" className="h-[80vh] overflow-y-auto">
       <CardHeader>

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Education = () => {
-    let education = [
+    const education = [
       {
         uniName: "giaic",
         date: "01/12/2024",

@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Experience = () => {
-  let experience = [
+  const experience = [
     {
       compName: "microsoft window",
       datestrat: "01/12/2024",

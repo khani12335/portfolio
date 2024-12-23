@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 
 const Project = () => {
-  let project=[
+  const project=[
     {
       name:"clothes website",
       details:"Lorem ipsum dolor sit amet consectetur adipisicing elit. Commodi ratione delectus repudiandae optio! Veritatis quod aspernatur asperiores nisi rem, fugit blanditiis, et perferendis alias temporibus molestiae, quibusdam repellat laborum pariatur",
